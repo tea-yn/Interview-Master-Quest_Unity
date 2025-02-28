@@ -1,0 +1,32 @@
+# Unity関連の不要なファイル
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Mm]emoryCaptures/
+
+# Visual Studio関連
+.vs/
+*.sln
+*.csproj
+*.unityproj
+*.suo
+*.user
+*.pidb
+*.booproj
+*.svd
+*.pdb
+
+# macOS関連
+.DS_Store
+
+# Windows関連
+Thumbs.db
+Desktop.ini
+
+# その他
+*.apk
+*.unitypackage
+
